@@ -1,0 +1,16 @@
+python-pip
+python
+python-dev
+git
+gfortran
+build-essential
+curl
+wget
+vim
+alien
+dpkg-dev
+debhelper
+ksh
+gcc
+make
+unixodbc-dev
